@@ -1,1 +1,2 @@
-This is the another text  file
+This is the another text  file.
+Now the commit is made.
